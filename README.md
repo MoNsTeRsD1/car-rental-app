@@ -1,2 +1,2 @@
-# car-rent-app-
+# car-rental-app-
 MAP 
